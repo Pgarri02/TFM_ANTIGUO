@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="app.rnc" type="application/relax-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="teognis.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Elegías de Teognis <ptr target="https://es.wikipedia.org/wiki/Teognis/"></ptr>
+			</title>
+			<author>Patricia Garrido Teixeira
+			</author>
+			<respStmt>
+				<resp>Tutelado por: </resp>
+				<name>Adrián Menéndez de la Cuesta</name>
+				<name>Juan Antonio Álvarez-Pedrosa</name>
+			</respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<p>Trabajo de Fin de Máster de Patricia Garrido.</p>
+		</publicationStmt>
+		<sourceDesc>
+			<p>Elegías de Teognis</p>
+		</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="elegías">
+			<head>Libro 1</head>
+
+			<div type="elegías">
+				<head>Libro 1</head>
+
+				<div n="1">
+
+					Oh soberano, hijo de Leto, vástago de Zeus,
+					de ti nunca me olvidaré al comenzar ni al concluir, sino que siempre el primero,
+					el último y en medio te cantaré. Mas tú escúchame y concédeme
+					tu favor. Soberano Febo, cuando te dio a luz la augusta
+					diosa Leto, sujeta a una palmera con gráciles manos, a ti, el
+					más bello de los inmortales, junto a una laguna redondeada, la
+					sagrada Delos se llenó toda de una divina fragancia, y la enorme
+					tierra sonrió y se gozó el profundo abismo de la mar canosa.
+
+					Ártemis cazadora, hija de zeus,  quien Agamenón erigió un
+					templo, cuando hacia Troya navegaba con raudas naves, escúchame
+					a mí, que te imploro, y aparta las funestas Ceres: para ti,
+					diosa, esto es algo pequeño, para mi grande.
+
+					Musas y Gracias, hijas de Zeus, que anataño, cuando a la boda
+					de Cadmo acudisteis, cantasteis este hermoso verso: "Lo que es
+					bello es querido; lo que no es bello, no es querido". Este verso
+					salió de vuestras bocas inmortales.
+
+					Cirno, para mí que soy un artista instruido un sello quede
+					impuesto sobre estos versos: si son robados, nunca pasarán inadvertidos, y nadie estropeará lo que de bueno hay en ellos.
+
+					Todo el mundo dirá así: "Son versos de Teognis de Mégara": célebre
+					entre todos los hombres. Mas a todos mis conciudadanos
+					en modo alguno puedo agradarlos. Nada extraño, Polipaides; en
+					efecto, tampoco Zeus agrada a todos cuando envía la lluvia ni
+					cuando la detiene.
+
+					Por sentir afecto hacia ti, te aconsejaré, Cirno, lo que yo mismo,
+					siendo aún un niño, aprendí de los hombres de bien. Sé
+					sensato y no busques mediante acciones deshonrosas ni injustas
+					honores ni méritos ni riqueza.
+
+					Sábete bien esto; y no tengas trato con los malvados, sino
+					mantente siempre junto a los hombres de bien. Bebe y come
+					juto a ellos, y sé grato a aquellos cuyo poder es grande. De los
+					nobles aprenderás cosas buenas, mas si con los malvados te
+					mezclas, echarás a perder incluso el buen sentido que hay en ti.
+					Tras aprender esto, relaciónate con hombres de bien y algún día
+					podrás decir que aconsejo bien a los amigos.
+
+					Cirno, esta ciudad está preñada y temo que ela engendre un
+					hombre que corrija nuestra funesta soberbia. Pues estos
+					ciudadanos asún son más sensatos, pero los gobernantes están abocados
+					a caer en una gran maldad. Ninguna ciudad, Cirno, arruinaron
+					jamás los hombres de bien; pero cuando a los malvados
+					place ser insolentes, corrompen al pueblo y emiten sentencias a
+					favor de los inicuos, por mor del prvecho personal y del poder.
+					No esperes que aquella ciudad permanezca tranquila por mucho
+					tiempo, aunque ahora esté en gran calma, una vez que
+					los malvados tengan querencia por estas cosas, que conllevan
+					provecho con perjuicio público. Pues de todo esto surgen las sediciones,
+					las matanzas entre conciudadanos y los tiranos: que
+					ello nunca sea grato a la ciudad.
+
+				</div>
+
+				<div n="53">
+
+					Cirno esta ciudad aún es una ciudad, mas son distintas sus
+					gentes: oos que antes no conocían ni el derecho ni las leyes, sino
+					que en torno a sus costados gastaban pieles de cabras y como
+					ciervos se esparcían fuera de esta ciudad, ¡ahora son nobles,
+					Polipaides! Y los nombres de antaño son ahora plebeyos ¿Quién
+					podría soportar ver est? Unos a otros se engañan riéndose
+					unos de otros, desconociendo las normas de lo malo y de lo
+					bueno. A ninguno de estos ciudadanos, Polipaides, hagas
+					tu amigo de corazón por causa de necesidad alguna: por el
+					contrario, aparenta ser amigo de todos de palabra, mas con
+					ninguno te mezcles en cualquier empresa impotante, pues conocerás
+					el carácter de estos hombres miserables, porue no
+					puede haber foncianza alguna en sus actos, sino que aman las
+					trampas, los engaños y los enredos, tal como hombres ya sin
+					salvación.
+
+					Jamás, Cirno, confiado deliberes con un hombre malvado
+					cuando quieras llevar a cabo un asunto importante; por el
+					contrario, yendo en pos del honrado, prefiere soportar abundantes
+					fatigas y recorrer con tus pies, Cirno, un largo camino.
+
+					No comuniques por completo tus proyectos a todos tus amigos:
+					pocos entre muchos tienen una intención honrada.
+
+					Confiado en pocos, pon en práctica tus empresas importantes,
+					para que no sufras, Cirno, un perjuicio irreparable.
+
+					Un hombre leal es digno de ser comparado con el oro y con la
+					plata, Cirno, en la terrible contienda civil.
+
+					Hallarás pocos amigos, Polipaides, que te resulten leales en 
+					situaciones adversas, y que teniendo un corazón acorde con
+					el tuyo se atrevan a participar por igual de los bienes y de los
+					males.
+
+					Buscándolos entre todas las gentes no podrías hallar hombres,
+					a los que una sola nave no pueda transportar y en cuya lengua
+					y ojos resida el pudor, y a los que el deseo de ganancia no
+					conduzca una acción indecente.
+
+					No me quieras de palabra, mientras que tu pensamiento y tus
+					sentimientos están en otra parte, si es que me amas y tienes una
+					intención honrada. Ámame con intención sincera o, rompiendo
+					conmigo, aborréceme emprendiendo abiertamente una querella.
+					El que tiene una doble intención con una sola lengua, ése es
+					un compañero peligroso, Cirno: es preferible que sea enemigo
+					antes que amigo.
+
+					Si alguien te alaba tanto tiempo como lo tuvieras ante los ojos,
+					pero, una vez que se ha alejado a otro sitio, deja oír su mala lengua,
+					tal compañero tuyo no es ciertamente un buen amigo, si dice
+					cosas gratas con la lengua y piensa otras distintas.
+
+					Ojalá tuviera yo un amigo así, que conociendo a su compañero
+					lo soporte, aunque sea de difícil carac´ter, como si fuera un
+					hermano. Medítame estas ideas, querido amigo, en tu corazón, y
+					algún día te acordarás de mí.
+
+				</div>
+
+				<div n="101">
+
+					Ninguno de los hombres te convenza de tener amistad con un
+					malvado, Cirno: ¿qué provecho hay en tener como amigo a un miserable?
+					No podría librarte de una situación difícil ni de la ruina, y
+					si tuviera una fortuna, no querría hacerte partícipe de ella. Una
+					gratitud muy vana obtiene el que hace bien a miserables: es igual
+					que sembrar la llanura de la mar canosa; porque ni sembrando en
+					el mar segarías una gran cosecha ni obtendrías beneficios a cambio
+					si haces bien a los malvados. Pues los malvados tienen una voluntad
+					insaciable; y si yerras en una sola cosa, la amistad de todos los
+					favores anteriores se esfuma; mientras que los hombres de 
+					bien, al recibir un beneficio, los disfrutan en el más alto grando, y en
+					lo sucesivo guardan memoria y gratitud por los favores.
+
+					Jamás hagáis vuestro compañero querido a un hombre malvado,
+					sino más bien rehuidle siempre como a un mal puerto.
+
+					Muchos son los compañeros para la bebida y la comida,
+					mas pocos para un asunto serio.
+
+					Nada ás difícil de conocer que un hombre falso, Cirno, y
+					nada precisa de mayor precaución.
+
+					El defecto del oro y de la plata falsos es soportable, Cirno, y
+					fácil de descubrir para un hombre experto; pero si la intención
+					de un amigo queda oculta en su pecho, por ser falsa y guarda
+					en sus entrañas un corazón engañoso, eso es lo más falso que
+					la divinidad ha creado para los mortales y también lo más doloroso
+					de todo de descrubrir. Pues no podrías saber las intenciones
+					de un hombre o de una mujer, hasta que no los pruebes como
+					una acémila ni podrías juzgarlas como cuando estás ante un fruto
+					maduro, ya que las apariencias a menudo confunden nuestro entendimiento.
+
+					No pidas, Polipaides, ser sobresaliente ni en virtud ni en riquezas:
+					una sola cosa puede contar para un hombre, la buena suerte.
+
+					Nada hay mejor entre los hombres que un padre y una madre,
+					a quienes preocupa, Cirno, la sagrada justicia.
+
+					Nadie, Cirno, es culpable de su ruina o de su prosperidad, sino
+					que los dioses son los dispensadores de ambas cosas; ninguna persona
+					se afana en una empresa sabiendo en sus mientes  si es, al
+					final, provechoso o perjudicial. Pues a menudo creyendo que va a
+					hacer un mal hizo un bien, y creyendo que va a hacer un bien hizo
+					un mal. A ningún hombre le sale bien cuanto desea; los límites de
+					la rígida imposibilidad lo detienen. Los hombres planeamos
+					en vano, pues no sabemos nada; mientras que los dioses
+					concluyen todo según su voluntad.
+
+					Ninguno de los mortales, Polipaides, ha engañado nunca a
+					un huéspued o a un suplicante y ha pasado inadvetido
+					ante los inmortales.
+
+					Prefiere vivir siendo piadoso con pocos bienes a ser rico
+					adquiriendo bienes de manera inusta. En suma, toda virtud
+					reside en la justicia, y todo hombre que sea justo,
+					es un hombre de bien, Cirno.
+
+					Una divinidad otorga bienes también a un hombre perverso,
+					Cirno; pero el lote de la virtud sólo corresponde a unos 
+					pocos hombres;
+
+				</div>
+
+				<div n="152">
+
+					El desenfreno,Cirno, se lo concedió la divinidad en primer
+					lugar al hombre con el que no va a tener ninguna consideración.
+
+					La hartura engendra el desenfreno, cuando la felicidad acompaña
+					a un malvado o aun hombre que no tenga una mente equilibrada.
+
+					Cuando hayas estado irritado con un hombre, nunca me eches
+					en cara su pobreza que consume el corazón ni su funesta indiferencia;
+					pues Zeus inclina la balanza unas veces hacia un lado, otras
+					hacia otro, unas veces para enriquecer, otras para no dar.
+
+					Nunca pronuncies Cirno, una palabra jactanciosa, pues nadie
+					sabe lo que la noche y el día depararán a un hombre.
+
+					Muchos, se valen de intenciones perversas y de un genio favorable,
+					para quienes lo que parecer ser un mal se torna en un
+					bien; y hay otros que, con sabios consejos y con un genio infausto,
+					sufren penalidades y el éxito no corona sus empresas.
+
+					Nadie es rico ni pobre ni malo ni bueno
+					sin la ayuda de una divinidad.
+
+					Cada cual tiene una desgracia distinta, y ningún hombre
+					a quien contempla el sol es completamente feliz.
+
+					Mas aquel a quien los dioses favorecen, incluso el calumniador
+					lo alaba; mientras que el esfuerzo del hombre resulta vano.
+
+					Ruega a los dioses; en los dioses reside el poder; sin los dioses
+					ciertamente no hay ni bienes ni males para los hombres.
+
+					A un hombre de bien, la pobreza, por encima de todo lo somete,
+					más que la canosa vejez y la fiebre, Cirno; por huir de
+					la cual hay que arrojarse al mar de grandes monstruos, Cirno, o
+					desde lo alto de escarpadas rocas. Pues un hombre domeñado
+					por la pobreza no puede decir ni hacer nada: su lengua está encadenada.
+
+					Hay que buscar, Cirno, la liberación de la cruel pobreza lo
+					mismo sobre la tierra que sobre el ancho lomo del mar.
+
+					Para un hombre pobre, Cirno, es mejor estar muerto que vivir
+					angustiado por la cruel pobreza.
+
+					Buscamos, Cirno, carneros, asnos y caballos de buena raza,
+					y todo el mundo quiere que desciendan de pura sangre; pero un
+					hombre noble no siente escrúpulo de desposar a una villana, hija
+					de un villano, si le aporta muchas riquezas, ni una mujer desdeña
+					ser la esposa de un villano rico, sino que prefiere un acaudalado
+					antes que a un hombre de bien... Ciertamente, veneran las riquezas;
+					el noble desposa a la hija del villano y el villano a la hija del
+					hombre de bien: el dinero ha mezclado las clases. Por tanto,
+					no te admires Polipaides, de que se debilite la raza de nuestros 
+					ciudadanos: en efecto, lo bueno se mezcla con lo malo.
+
+					Sabiendo él mismo que ella es de baja cuna, un hombre bien
+					considerado la conduce a su casa, a pesar de su mala reputación,
+					seducido por sus riquezas, ya que le predispone a ello la dura
+					necesidad, que torna atrevido el espíritu de un hombre.
+
+					La riqueza que a un hombre le corresponde de parte de Zeus,
+					ganada con justicia y honradamente, es siempre duradera; mas si
+					un hombre, con ánimo codicioso, la adquiere ya injustamente y
+					de manera inoportuna, ya mediante juramento violando la justicia,
+					en seguida parece obtener una ganancia, pero al final
+					resulta una desgracia y prevalece la voluntad de los dioses. He
+					aquí, sin embargo, lo que engaña el endendimiento de los hombres:
+					los bienaventurados no castigan con la misma acción sus
+					faltas, sino que uno mismo pagó su mala acción y no dejó suspendido
+					sobre sus hijos el infortunio para el futuro, mientras que
+					a otros no le alcanzó la justicia porque la muerte insaciable,
+					portadora de la fatalidad, se posó antes sobre sus párpados.
+
+				</div>
+
+				<div n="211">
+
+					No hay amigo ni fiel compañero para el desterrado: esto es
+					aún más amargo que el destierro.
+
+					Beber mucho vino es malo; pero si uno lo bebe con
+					conocimiento de causa, no es malo, sino bueno.
+
+					Corazón, cambia según cada amigo tu voluble talante, 
+					adaptando tu carácter al que cada uno tenga. Adopta el carácter de
+					retorcido pulpo, que se muestra a la vista semeante a la roca
+					a la que está adherido. Ahora acomódate a esta, y luego sé de diferente
+					color. La habilidad es mejor, cirtamente, que la intransigencia.
+
+					No te angustie demasiado cuando los ciudadanos estén alborotatos,
+					Cirno, y marcha por el camino de en medio como yo.
+
+					El que cree que el prójimo nada sabe, sino que él es el único
+					que posee variados ardides, ése es un insentato, carente de buen
+					sentido: en efecto, todos conocemos por igual los ardides; pero uno
+					no quiere emprender deshonroso negocios, mientras que
+					a otro le agradan más las intrigas desleales.
+
+					De la riqueza no hay límite prefijado para los hombres; pues
+					quienes de entre nosotros ahora tienen más medios de vida,
+					ansían el doble. ¿Quién podría saciarlos a todos? Las riquezas
+					son para los mortales motivo de locura, y de ella proviene la
+					ruina que, cuando Zeus la envía a los atormentados, ora
+					el uno ora el otro la padece.
+
+					Un hombre de bien, que es acrópolis y fortaleza de un pueblo
+					insensato, Cirno, obtiene poca estimación.
+
+					Nada nos afecta a nosotros como a hombres puestos a salvo,
+					sino como a una ciudad, Cirno, que va a ser enteramente tomada 
+					al asalto.
+
+					Yo te he dado alas, con las que, elevándote fácilmente, volarás
+					sobre el infinito mar y sobre toda la tierra: estrás presente
+					en todos los banquetes y festines, puesto en boca de muchos,
+					y con pequeños aulos de agudos tonos hermosos jóvenes
+					te cantarán bellos y melodiosos sones con buen orden. Y cuando
+					llegues a la morada de Hades de plañidos llena, en las entrañas de
+					la oscura tierra, nunca, ni siquiera muerto, perderás tu
+					gloria, sino que permanecerás en el recuerdo de los hombres
+					con un hombre por siempre inmortal, Cirno, recorriendo la
+					tierra griega y las islas, pasando sobre la infértil llanura del mar
+					en peces rica, sin montar a lomos de caballos: los hermosos dones
+					de las Musas coronadas de violetas de llevarán; y para 
+					todo aquellos que los aprecian y para los venideros serás igualmente
+					motivo de canto, mientras haya tierra y sol; pero yo no
+					encuentro en ti ni un poco de respeto, sino que, como a un niño
+					pequeño, me engañas con palabras.
+				</div>
+
+				<div n="255">
+
+					Lo más hermoso es la justicia; lo más ventajoso tener salud;
+					lo más dulce, obtener lo que uno desea.
+
+					Yo soy una yegua bonita y ganadora de mis premios, pero llevo
+					un pésimo jinete, y esto es para mí lo más penoso. Muchas veces
+					he estado ya a punto de huir, tras romper el bocado, precipitando
+					hacia delante al mal jinete.
+
+					En mí ya no se bebe vino, pues en casa de la tierna niña lo
+					guarda otro hombre mucho más tosco que yo. Allí a lo sumo beben
+					agua fresca sus queridos padres, de suerte que con frecuencia
+					va a la fuente y me lleva gimiendo; entonces, tras ceñor mi brazo
+					al talle de la muchacha, beso su cuello, y ella musita suavemente
+					con su boca.
+
+					La Pobresa es fácil de conocer, aunque sea ajena; pue no asiste
+					a la plaza pública ni a los procesos: en todos los sitios lleva la
+					peor parte, en todos los sitios es escarnecida; y en todos los sitios
+					en que esté, es igualmente odiosa.
+
+					Los dioses dieron a los hombres las demás cosas por igual,
+					tanto la funesta vejez como la juventud, pero lo peor de todas
+					las cosas entre los hombres, más antiguo que la muerte y que
+					todas las enfermedades, es que después de que has criado a tus
+					hijos y les has procurado lo necesario, y tras sufrir muchas 
+					penalidades le has acumulado riquezas, odien a su padre, deseen
+					que se muera y lo aborrezcan como a un mendigo que llama
+					a la puerta.
+
+					Es natural que un hombre malvado practique mal la justicia,
+					sin temer luego ninguna venganza divina; pues a un
+					miserable mortal le es posible ejecutar a su paso muchas 
+					acciones malvadas y creer que todo lo que hace es noble.
+
+					No des un paso confiando en ninguno de nuestros conciudadanos,
+					no estés confiado en su juramiento ni en su afecto, ni aunque
+					quiera poner Zeus, el rey supremo de los inmortales, como
+					garante con la inteción de darte seguridad.
+
+					En una ciudad tan maledicente nada es agradable; y en la
+					misma medida mucha gente siempre es desgraciada.
+
+					Ahora las desgracias de los hombres de bien son una dicha
+					para los malvados: se alegran con leyes monstruosas; el pudor
+					ha desaparecido, mientras que la impudicia y la insolencia,
+					tras vencer a la justicia, dominan toda la tierra.
+
+					No siempre come carne el león, sino que, por fuerte que sea,
+					le alcanza la impotencia.
+
+					Para una persona gárrula callar es la carga más pesada, y cuando
+					habla, resulta molesta para los que están presentes y todos le detestan;
+					pero en un banquete es inevitable el trato con un individuo así.
+
+					Nadie quiere ser amigo cuando a un hombre le sucede una desgracia, 
+					ni siquiera el que ha nacido, cirno, del mismo vientre que él.
+
+				</div>
+				<div n="301">
+
+					Sé amargo y dulce, amable y cruel con tus criados, servidores
+					y vecinos que viven a tu puerta.
+
+					No hay que cambiar una vida honrada, sino dejarla tranquila,
+					y, en cambio, una depravada hay que corregirla hasta que 
+					alcance el camino recto.
+
+					Los malvados no han nacido completamente malvados desde
+					el vientre materno, sino que al trabar amistad con hombres malvados
+					aprendieron sus malas artes, sus expresiones groseras y su
+					insolencia, por creer que aquellos decían toda la verdad.
+
+					Entre los comensales hay que ser un hombre sensato, y que
+					parezca que todo le pasa inadvertido como si estuviera ausente,
+					y aporte historias chistosas; mas ya en la puerta quédes
+					serio, cuando ya conoce el carácter que cada uno tiene.
+
+					Entre los locos me hago loco del todo, pero entre los justos
+					soy el más justo de todos los hombres.
+
+					Muchos malvados son ricos, mientras que los hombres de bien
+					son pobres; pero nosotros no cambiaremos con ellos el dinero por
+					la virtud, ya que ésta es siempre inmutable, mientras que las riquezas
+					de los hombres unas veces las posee uno y otras otro.
+
+					Cirno, un hombre de bien tiene siempre una opinión inmutable
+					y es valiente tanto cuando depende de la desgracia como de la fortuna:
+					pero si un dios concede medios de vida y dinero a
+					un malvado, al ser éste un insensato, no puede dominar su maldad.
+
+					Nunca pierdas un amigo por un pequeño pretexto, seducido
+					por una malévola calumnia, Cirno. Si uno se encolerizase a cada
+					momento con las faltas de los amigos, hamás estarían bien avenidos
+					los unos con los otros ni serían amigos; pues los mortales
+					siempre tendrán faltas, Cirno; los dioses, en cambio, no quieren tolerarlas.
+
+					Un hombre tranquilo y prudente puede alcanzar a otro apresurado,
+					si lo persigue, Cirno, con la recta justicia de los inmortales.
+
+					Tranquilo como yo recorre con tus pies el camino de en medio
+					y sin dar a unos, Cirno, lo que es de otros.
+
+					No hay amigo ni fiel compañero para el desterrado: esto es 
+					lo más amargo del destierro.
+
+					Nunca te hagas amigo de un desterrado con alguna esperanza,
+					Ciirno; pues cuando regresa a su casa, ya no es el mismo.
+
+					Nada te inquiete en exceso: una justa medida es lo mejor de todo;
+					y así, Cirno, alcanzarás la virtud, que es díficil de conseguir,
+
+					Zeus me conceda vengar a los amigos que me quieren, Cirno,
+					y tener un poder mayor que el de mis enemigos. Y así creería ser
+					un dios entre los hombres, si esl destino de la muerte me llega después
+					de haber alcanzado venganza.
+
+					Cúmpleme, Zeus del Olimpo, mi ruego oportuno; concédeme,
+					a cambio de males, disfrutar también algún bien: quisiera
+					morirme si no hallo un alivio a mis preocupaciones y no ocasiono
+					perjuicios a cambio de perjuicios. Tal es, pues, mi destino y no
+					se nos muestra el castigo de los individuos que mis bienes retienen
+					tras haberlos arrebatado por la fuerza; y yo como un perro he 
+					vadeado el barranco tras haberlo perdido todo en la corriente
+					torrencial. Séame dado beber su negra sangre, y venga en mi ayuda
+					un dios favorable que dé cumplimiento a tal cosa según
+					mi deseo.
+
+				</div>
+
+				<div n=" 351">
+
+					Ah mezquina Pobreza, ¿por qué te quedas conmigo y dejas de
+					irte junto a otro hombre? No me ames sin quererlo yo, sino vete
+					y frecuenta otra casa y no participes siempre a mi lado
+					de esta vida desdichada.
+
+					Sé valiente, Cirno, en la desgracia, ya que también te regocijaste
+					en la fortuna, cuand el destino te concedió poseerla; como
+					después de los bienes has recibido la desgracia, así también ahora
+					procura salir de ésta imporando a los dioses. Y no la exhibas demasiado;
+					es malo exhibirla, Cirno: tienes pocos valedores
+					de tu indigencia.
+
+					El corazón de un hombre que sugre una gran pena, se consume,
+					Cirno; pero cuando alcanza la venganza, se agrande de nuevo.
+
+					Adula bien a tu enemigo; y cuando esté al alcance de tu mano,
+					castígale sin poner ningún pretexto.
+
+					Mantente en tu juicio, mas quede la dulzura en tu lengua; el
+					corazón de los depravados es más irritable.
+
+					No puedo comprender el sentir que tienen mis conciudadanos
+					pues ni obrando bien ni obrando mal les soy agradable Muchos
+					me hacen reproches, de igual modo malos y buenos; pero
+					ninguno de estos necios puede imitarme.
+
+					No me unzas al carro obligado, aquijoneándome a la fuerza,
+					arrastrándome, Cirno, en exceso al afecto.
+
+					Zeus querido, me asombras: pues tú eres soberano de todos,
+					poseyendo tú slo gloria y gran poder, conoces bien el pensamiento
+					y el ánimo de cada uno de los hombres y poder, rey, es
+					el más excelso de todos ¿Cómo entonces, Crónida, tolera tu voluntad
+					que unos hombres malvados y el justo tengan un mismo
+					destino, tanto si se complace en la prudencia como si lo hace en
+					la desmesura la mente de los hombres, persuadidos por acciones
+					injustas? ¿Nada hay determinado para los mortales por 
+					parte de la divinidad, ni siquiera el camino que se debe seguir
+					para agradar a los inmortales?
+
+					no obstante, mantienen una prosperidad sin mengua; otros,
+					apartando su corazón de viles acciones, aunque aman la justicia,
+					obtienen, con todo, pobreza, madre de la impotencia, que desvía
+					el ánimo de los hombres hacia el erros, corromiendo los sentimientos
+					en su pecho bajo una imperiosa necesidad; sin quererlo,
+					se resigna a soportar muchos ultrajes, sucumbiendo ante la indigenia,
+					que enseña muchas desgracias, mentiras, fraudes y funestas
+					discordias, incluso al hombre que no lo desea, y ninguna
+					calamidad se le parece; pues aquella también engendra ña
+					amarga impotencia. En la pobreza se revela el hombre vil y el
+					que es mucho mejor, cuando los tiene en su poder la indigencia;
+					pues el talante del uno proyecta cosas justas, de aquel que en su
+					pecho siempre está enraizado un pensamiento recto, mientras
+					que el talante del otro no se somete ni a la mala ni a la buena
+					fortuna. Es preciso que el hombre de bien tenga valor para
+					sobrellevar esto y quello, que respete a los amigos y huya de
+					juramentos que pierden al hombre, vergonzosos, evitando
+					la cólera de los inmortales.
+
+				</div>
+
+				<div n="401">
+
+					Nada te inquiete en exceso: la oportunidad es lo mejor en todas
+					las acciones de los hombres. Muchas veces un hombre, tratando
+					de obtener provecho, busca con ahínco el prestigio y a
+					aquel una divinidad favorable lo induce a un gran error y le hace
+					creer a la ligera que aquello que es malo, es bueno, y que aquello
+					que es útil, es malo.
+
+					Tú, aunque me eres muy querido, te has equivocado; pero yo
+					no soy en absoluto responsable, sino tú mismo que no tuvista
+					una buena ideaa.
+
+					Ningún tesoro dejarás a tus hijos, Cirno, mejor que el respeto,
+					que acompaña a los hombres de bien.
+
+					A ningún hombre parece ser inferior un compañero en el que
+					convienen inteligencia y poder, Cirno.
+
+					Cuando beba, no me emborracharé de tal manera - el vino
+					no me enajena - que diga sobre ti una palabra vehemente.
+
+					Aunque lo busco con ahínco, no puedo encontrar un compañero
+					fiel semejante a mí, en el que no sea posible el engaño;
+					acercándome a la pierdra de toque, me froto con ella como el oro con el
+					plomo, y en mí está presente la convicción de una superioridad.
+
+					Muchas cosas se me escapan, aunque las comprendo; pero por
+					fuerza callo, consciente de mi capacidad.
+
+					Para muchos hombres las puertas no cierran bien ajustadas
+					en su lengua, y se ocupan de muchas cosas que carecen de interés;
+					pues con frecuencia es mejor que quede dentro lo malo
+					y conveniente que salga lo bueno más que lo malo.
+
+					De todas las cosas la mejor para los humanos es no haber nacido
+					ni llegar a ver los rayos del ardiente sol, y una vez nacido,
+					cruzar cuanto antes las puertas del Hades y yacer tumbado bajo
+					un montón de tierra.
+
+					Engendrar y criar a un hombre es más fácil que inculcarle
+					sentimientos nobles; pues nadie ha ideado aún aquello,
+					gracias a lo cual convierta en cuerdo al insensato y en bueno al
+					malvado. Si un dios hubiese concedido esto a los Asclepíadas,
+					el curar la maldad. los sentimientos perversos de los hombres,
+					muchas y grandes ganancias habrían obtenido. Si la mentalidad
+					fuese para un hombre algo factible e inculcable, jamás hubiera 
+					salido un mal hijo de un buen padre, persuadido por virtuosas palabras;
+					pero por instruirlo jamás harás de un villano un hombre de bien.
+
+					Necio el que presta atencón a mi pensamiento y no
+					se cuida de sus propios asuntos.
+
+					En efecto, no hay nadie completamente feliz; pero el noble
+					es valiente cuando sufre un infortunio y no lo manifiesta
+					al mismo tiempo; mientras que el villano no sabe mantenerse co
+					ánimo ni en la fortuna ni en la desgracia. Los dones de los inmortales
+					que sobrevienen a los mortales son variados; pero hay
+					que tener valor para aceptar los regalos de los inmorales
+					tal cual los otorgan.
+
+					Si quieres lavarme, desde lo alto de mi cabeza siempre correrá
+					el agua clara, y en todas mis acciones me encontrarás como el oro
+					puro, que se ve rojo al ser frotado con la piedra de toque
+					y cuya superficie no atacan el negro orín ni el moho y conserva
+					siempre su genuino esplendor.
+
+
+				</div>
+
+				<div n="453">
+
+				Amigo, si por el destino hubieras recibido tanta porción de
+				conocimiento como de insensatez y fueras tan cuerdo como
+				insensato, serías considerado por muchos de nuestras conciudadanos
+				tan envidiable como ahora eres digno de nada.
+
+				Una mujer joven no es ciertamente apropiada para un hombre
+				viejo; pues no obedece al timón como una barca ni la retienen
+				las anclas; antes bien, a menudo tras romper los cabos, gana otro
+				puerto de noche.
+
+				Nunca pongas tu atención en cosas irrealizables ni desees
+				ardientemente las riquezas: en estas cosas no hay ninguna ventaja.
+
+				Los dioses no conceden ninguna cosa a la ligera, ni una
+				despreciable ni una buena; la gloria está en empresas difíciles.
+
+				Ejercítate en la virtud, que la justicia te sea amada y no que te
+				venza el deseo de ganancia, que es indecente.
+
+				A ninguno de éstos obliques a permanecer con nosotros
+				contra su voluntad, ni invites a marcharse a la clle. quien no
+				quiere irse; ni despiertes, Simónides, a quien de nosotros duerma
+				si embriagado por el vino, un dulce sueño se ha apoderado
+				de él, ni invites a dormir contra su volutnad al que está
+				desvelado; pues toda cosa obligatoria resulta enojosa. Al que
+				quiera beber, que uno le escancie vino a su vera: no todas las
+				noches es posible disfrutar de placer. Yo, por mi arte, puesto
+				que guardo mesura en el vino duelce como la miel, yéndome
+				a casa, atenderé al sueño que libra de las penas. Llegaré como
+				el vino resulta más agrable para el hombre haberlo bebido:
+				sin abstenerme del todo ni emborrachándome en exceso. El
+				que sobrepase la mesura en la bebida, ése ya no será dueño de
+				su lengua ni de su vluntad, pronunciará palabras impertinentes
+				que son indecentes para los sobrios, y no sentirá
+				sensato antes, necio ahora. Pero tú, consciente de estas cosas,
+				no bebas vino exageradamente, sino levántate antes de 
+				emborracharte - que no te domine tu vientre como a un mal 
+				jornalero - o si te quedas, no bebas. Tú, en cambio, siempre repites
+				esta necia palabra: "escancia"; por eso estás, borracho, pues
+				una copa es ofrecida por la amistad, otra está dispuesta, otra
+				la derramas en honor de los dioses, otra la tienes ya en tu mano
+				y no sabes negarte. En verdad es invencble aquel que,
+				aunque beba muchas copas, no dirá una necedad. Y vosotros
+				conversad a gusto permaneciento junto a la cratera, 
+				absteniéndoos durante largo tiempo de la mutua discordia, hablando
+				en el centro, a cada uno y a todos a un tiempo; así es como
+				un banquete resulta agradable.
+
+				El vino convierte en irreflexiva la mente del hombre insensato
+				y del cuerpo por igual, cuando bebe por encima de la justa medida.
+
+				En el fuego reconocen el oro y la plata los peritos, mas el vino
+				demuestra el carácter del hombre, aunque sea muy prudente,
+				y lo excita cuando bebe por encima de la justa medida, hasta
+				el punto de avergonzar al que antes era sabio.
+
+			</div>
+
+			<div n="503">
+
+				Tengo la cabeza aturdida por el vino, Onomácrito, y me violenta
+				el vino; además, yo ya no soy dueño de mi voluntad y la casa
+				me da vueltas. Ea, una vez que me levante haré la prueba no sea
+				que el vino se haya adueñado de mis pies y de mi mente en el pecho;
+				temo que, embriagado, vaya a cometer alguna estupidez y 
+				sufra una gran verguenza.
+
+				Bebido en abundancia el vino es malo; pero si uno lo bebe
+				con conocimiento de causa, no es malo sino bueno.
+
+				Así pues, llegaste aquí, Clearisto, tras cruzar el profundo mar,
+				ante mí que nada tengo, tú que, desdichado, nada tienes; te daré
+				lo mejor de lo que poseo; y si llega alguno que sea amigo tuyo,
+				toma asiento según el grado de amistad que tengas. No me reservaré
+				nada de lo que poseo ni tomaré prestado nada mejor de otra
+				parte para tu hospedaje. En los costados de tu nave, bajo los
+				bancos de los remeros yo colocaré, Clearisto, las cosas que poseo y
+				que los dioses conceden. Y si alguien te pregunta por mi vida,
+				dile así: "para el que vive bien, vive con dificultad, mas para el que
+				vive con dificultad, vive muy bien, de manera que no
+				puede abandonar a un huésped familiar, pero no dar hospitalidad
+				a muchos."
+
+				No en vano, oh Pluto, te honran los mortales sobre manera;
+				pues sobrellevas la maldad de buen grado. Y por consiguiente, es
+				natural que los hombres de bien posean riquezas, mientras que la
+				pobreza es legítimo procurársela a un malvado.
+
+				¡Ay de mí, por mi juventud y funesta vejez! De la una, porque se 
+				acerca; de la otra, porque se aleja.
+
+				No he traicionado a ningún querido y fiel amigo, y no hay en mi 
+				alma nada propio de un esclavo.
+
+				Mi corazón se me regocija siempre que escucho el delicioso
+				sonido de los sonoros aulos; me regocijo al beber a gusto y cantar
+				al son del auletista, y me recogijo al tener en mis manos la
+				armoniosa lira.
+
+				Nuesta está erguida la cabeza de une sclavo, sino siempre
+				inclinada y tiene su cuello torcido. Pues ni una rosa ni un
+				jacinto nacen de una escila, ni tampoco de una esclava un hijo libre.
+
+				Ese hombre, querido Cirno, se forja grilletes para sí mismo,
+				si es que los dioses no burlan mi entendimiento.
+
+				Tengo miedo de que la desmesura, que perdó a los centauros
+				devoradores de carne cruda, haya perdido a esta ciudad, Polipaides.
+
+				Es preciso,Cirno, que yo juzque este asunto con el cordel y la
+				escuadra, y ortogue a ambos lo justo, con la ayudo de adivinos,
+				augurios y víctimas incineradas, a fin de que no sufra
+				el vergonzoso deshonor de la culpa.
+
+				No hagas violencia a nadie con maldad, sino con justicia:
+				nada e smejor que la acción recta.
+
+				Un mensajero mudo, Cirno, suscita la guerra que causa
+				muchas lágrimas, brillando desde un lejano promontorio. Coloca
+				el freno en los caballos de rápidos remos; pues yo creo que
+				ellos van a salir al encuentro de los enemigos; no es mucha la distancia;
+				recorrerán el camino, es que los dioses no burlan mi entendimiento.
+
+						<div n="555">
+
+				Es preciso que un hombre que se encuentra en medio de duros
+				sufrimientos, sea valiente y pida a los dioses inmortales la
+				liberación de ellos. Medita, pues: la suerte está situada en el filo de
+				la navaja: unas veces tendrás muchos bienes, otras veces menos,
+				de modo que tú no serás excesivamente rico en posesiones ni irás
+				a parar a una extrema indigencia.
+
+				Ojalá me fuera posible poseer algunas de las riquezas de mis
+				enemigos y dar la mayor parte de ellas a mis amigos.
+
+				Es beneficioso ser invitado a un banquete y sentarse junto a
+				un hombre de mérito, que conoce toda clase de sabiduría. Escúchalo,
+				cuando diga algo sabio, para que lo aprendas y regreses a 
+				casa con esa ganancia.
+
+				Me divierto gozando de la juventud; pues por largo tiempo
+				yaceré debajo de la tierra, como una piedra muda, una vez que
+				haya perdido la vida, y abandonaré la amada luz del sol; y aunque
+				sea distinguido, ninguna cosa veré ya.
+
+				La reputación es un gran mal para los hombres, y la prueba es
+				lo mejor; muchos, que no han dado prueba de nada, tienen reputación
+				de buenos.
+
+				Haciendo el bien, el bien recibe: ¿por qué vas a enviar otro mensajero? 
+				El mensaje de la acción es recta fácil.
+
+				Son mis amigos quienes me traicionan, ya que rehuyo al enemigo
+				como un piloto los escollos marinos.
+
+				"Es más fácil convertir en malo a un hombre bueno que en bueno a uno malo".
+				- No me des lecciones: ya no
+				estoy en edad de aprender.
+
+				Odio al mal hombre y vengo cubierta con un velo, con el
+				cerebro vacío ede un pequeño pájaro; odio a la mujer corretona
+				y al hombre lujurioso, que quiere arar un campo ajeno.
+
+				Ciertas cosas han sucedido y es imposible que sean anuladas:
+				en cuanto a las que están por llegar, de ésas hay que cuidarse.
+
+				En todas las acciones hay peligro y nadie sabe, cuando una
+				empresa comienza, cómo va a acabar: el que procura tener buena
+				estima, al no calcular bien, cae en un grande y terrible infortunio;
+				mientras que al que obra mal, la divinidad le concede en todo
+				fausto suceso, la liberación de su insensatez.
+
+				Es necesario que afrontes con valentía aquello que los dioses
+				dan a los mortales y que sobrelleves de buen grado tu porción de
+				ambas fortunas, no apenes en exceso tu corazón por la desgracia
+				ni te alegres de repente por la fortuna antes de ver al desenlance final.
+
+				Amigo, seamos compañeros el uno del tro desde lejos: hay
+				hartura de cualqueir cosa, salvo del dinero. Seamos amigos durante
+				mucho tiempo; pero ten trato también con otros hombres
+				que conocen mejor tu manera de pensar.
+
+				No me pasaste desapercibido al ir y venir por la carrera, por
+				la que, efectivamente, antes te dirigías, traicionando mi amistad.
+				Vete en mala hora, enemigo de los dioses y traidos a los
+				hombres, que tienes en tu regazo una fría serptiente moteada.
+
+			</div>
+			<div n=" 602">
+
+				Estos sucesos y el desengreno, que ahora invaden esta ciudad
+				sagrada, perdieron también a los magnesios.
+
+				El hartazgo ha acabado ya con mchos más hombres que el hambre,
+				pues ellos querían tener más de lo debido.
+
+				En un principio, el placer de la mentira es pequeño; pero al
+				final esa ganancia resuelta, a la vez vergonzosa y perjudicial, nada
+				de noble tiene un hombre al que acompaña la mentira y esta es lo
+				primero que sale de su boca.
+
+				No es díficil censurar al prójimo ni tampoco alabarlo: estas
+				cosas interesan a los hombres viles. Los malvados no está dispuestos
+				a callar, murmurando bajezas, en cambio, los hombres de
+				bien saben guardar la medida de todas las cosas.
+
+				De los hombres de hoy el sol no contempla a ninguno
+				completamento bueno y mesurado.
+
+				No todos los deseos se les cumplen a los hombres; pues
+				los inmortales son mucho más poderosos que los mortales.
+
+				Afligido en mi corazón doy vueltas y vueltas en medio de las
+				dificultades; pues no hemos remontado la cima de la pobreza.
+				Todo el mundo aprecia al rico y desprecia al pobre; todos
+				los hombres tienen la misma conducta.
+
+				Toda clase de perseveridades hay entre los hombres, así como
+				toda clase de virtudes y destrezas para ganarse la vida.
+
+				Es complicado que un hombre inteligente hable mucho ante
+				los tontos y también que calle siempre: esto no es posible.
+
+				Es vergonzoso que un hombre ebrio esté entre hombres
+				sobrios, y es vergonzoso si un hombre sobrio permanece entre ebrios.
+
+				La juventud y la ligereza disiplan la mente del hombre
+				y arrastran el corazón de muchos al erros.
+
+				Aquel para quien su mente no es más fuerte que su corazón,
+				Cirno, siempre está en la desgracia y en grandes dificultades.
+
+				Medita dos y tres veces lo que se te venga a la mente; pues un
+				hombre impetuoso resulta funesto.
+
+				A los hombres de bien les siguen la inteligencia y el pudor;
+				ellos ahora son ciertamente pocos entre muchos.
+
+				La esperanza y el riesgo son semejantes a ojos de los hombres;
+				pues ambos son genios incómodos.
+
+				A menudo sucede que contra la apariencia y la esperanza
+				marchan bien las empresas de los hombres, pero no hay éxito
+				para sus planes.
+
+				No podrías reconocer al amigo ni al enemigo, a noser 
+				que te encontraras ante un asunto serio. Muchos son nuestros
+				compañeros junto a la cratera, mas pocos en un asunto serio.
+
+				Pocos compañeros fieles que velen por ti hallarías cuando tuvieses
+				tu ánimo en una gran dificultad. 
+
+				Ahora, ciertamente, ha desaparecido el pudor de entre los
+				hombres, mientras que la impudicia recorre la tierra.
+
+				Miserable Pobreza, ¿por qué, pesandosobre mis hombros,
+				deshonras mi cuertpo y mi espíritu? Sin quererlo yo,
+				a la fuerza, me enseñas muchas desverguenzas, a mí que de entre los
+				hombres conozco lo bueno y lo malo.
+
+			</div>
+
+				<div n="653">
+
+					Sea yo afortunado y amado por los dioses inmortales, Cirno;
+					ninguna otra virtud deseo.
+
+					Todos nos entristecemos contigo, Cirno, cuando sufres
+					alguna desgracia; pero la tristeza ajena es efímera.
+
+					No aflijas en exceso tu corazón en las dificultades ni te recogijes
+					en la fortuna, ya que es propio de un hombre de bien
+					sobrellevarlo todo. No hay que jurar auello de que "jamás sucerá tal
+					cosa"; pues los dioses, en quienes reside el cumplimiento de las
+					cosas, se irritan. Y en verdad hacen cualquier cosa: de un malvado nace
+					un noble y de un hombre de bien un malvado; el
+					hombre pobre de repente se enriquece mucho y el que posee
+					abundantes bienes súbitamente se arruina en una sola noche; también el
+					sensato se equivoca y al insensato a menudo le acompaña la fama,
+					e incluso siendo malvado alcanza un puesto de honor.
+
+					Si yo tuviera, Simónides, riquezas como las de antaño, no
+					me artibularía cuando frecuento a los hombres de bien Pero
+					ahora pasan de largo junto a mí, que los conozco, y estoy mudo
+					por la indigencia, aunque podría darme cuenta mejor que
+					muchos de la razón por la que ahora somos arrastrafos, con
+					las blancas velas abatidas, fuera del mar Melio, a través de la
+					sombría noche; no quieren achicar al agua y el mar salta por
+					encima de ambas bordas; muy difícilmente puede uno salvarse,
+					según actúan: han destituiddo al piloto experto, que diestramente
+					mantenía el rumbo; saquean los bienes con violencia, el orden
+					ha desaparecido y ya no hay un reparto equitativo en público;
+					mandan los cargadores y los malvados están por encima
+					de los hombres de bien. Temo que una ola se trague la nave.
+
+					Queden dichos por mí estos oscuros enigmas para los
+					hombres de bien; pero incluso un malvado los comprendería, si
+					fuera inteligente.
+
+					Muchos ignorantes tienen riqueza; mientras que otros, apremiados
+					por la cruel pobreza, aspiran a la virtud. Mas la imposibilidad
+					de obrar subyace en unos y otros; pues a unos se lo impiden
+					las riquezas y a otros la inteligencia.
+
+					No es posible a los
+
+					<!--680-->
+
+
+
+				
+
+
+
+
+
+
+
+
+
+				</div>
+				<div>
+				</body>
+			</text>
+		</html>
+
+
+
+
+
+
+
+
+
+
+
