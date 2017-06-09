@@ -4,6 +4,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all"
     version="2.0">
+
+    
     <xsl:output method="html" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes" />
 
@@ -28,34 +30,42 @@
                              </script>
                          </head>
                          <body>
+                             
+                             <h1> </h1>
 <div class="container">
-      <h1 class="col-md-4 col-sm-12 col-xs-12">Elegías de Teognis </h1>
+      
       <div class="col-md-8 col-sm-12 col-xs-12" style="padding-top: 10px;">
-         <nav class="navbar.right navbar-inverse">
-            <div class="container-fluid">
-             <div class="navbar-header">
-               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                 <span class="icon-bar"></span>
-                 <span class="icon-bar"></span>
-                 <span class="icon-bar"></span>                        
-              </button>
-              <a class="navbar-brand" href="index.html">Eλεγείων</a>
-           </div>
-           <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-              <li><a href="teognisgriego.html">Texto griego</a></li>
-              <li><a href="teognisespañol.html">Texto español</a></li>
-              <li><a href="personalia.html"><i>Personalia</i></a></li>
-              <li><a href="lugares.html">Lugares</a></li>  
-
-
-              </ul>
-           </div>
+         <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container topnav">
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li>
+                        <a href="index.html">Inicio</a>
+                    </li>
+                    <li>
+                        <a href="teognisgriego.html">Texto griego</a>
+                    </li>
+                    <li>
+                        <a href="teognisespañol.html">Texto español</a>
+                    </li>
+                    <li>
+                        <a href="personalia.html"><i>Personalia</i></a>
+                    </li>
+                    <li>
+                        <a href="lugares.html">Lugares</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
-     </nav>
+        <!-- /.container -->
+    </nav>
   </div> 
 
    <div class="col-md-12 col-xs-12 col-sm-12">
+       <br></br>
    <h2>Eλεγείων</h2>
    
                         <xsl:apply-templates select="/TEI/text/body"/>
