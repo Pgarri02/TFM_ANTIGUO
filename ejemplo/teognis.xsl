@@ -5,9 +5,19 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all"
     version="2.0">
 
-    
+
     <xsl:output method="html" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes" />
+        <xsl:template match="@*|node()">
+ +        <xsl:copy>
+ +            <xsl:apply-templates select="@*|node()"/>
+ +        </xsl:copy>
+ +    </xsl:template>
+ +    <xsl:template match="lg/@n">
+ +        <xsl:attribute name="n">
+ +            <xsl:value-of select="count(preceding::lg) + 1"/>
+ +        </xsl:attribute>
+ +    </xsl:template>
 
         <xsl:template match="/">
             <html>
@@ -30,18 +40,17 @@
                              </script>
                          </head>
                          <body>
-                             
-                             <h1> </h1>
 <div class="container">
       
       <div class="col-md-8 col-sm-12 col-xs-12" style="padding-top: 10px;">
          <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
         <div class="container topnav">
+        
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    
-                    <li>
+
+                  <li>
                         <a href="index.html">Inicio</a>
                     </li>
                     <li>
@@ -65,8 +74,7 @@
   </div> 
 
    <div class="col-md-12 col-xs-12 col-sm-12">
-       <br></br>
-   <h2>Eλεγείων</h2>
+   <h1> </h1>
    
                         <xsl:apply-templates select="/TEI/text/body"/>
    </div>
@@ -84,7 +92,8 @@
 <xsl:choose>
    
     <xsl:when test="@n='1'"   >
-       
+
+       <h2>Eλεγείων</h2>
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
  <div class="panel panel-default">
@@ -118,7 +127,7 @@
             <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Versos 52-<xsl:value-of select="count(lg/l)"/>
+                        Versos...<xsl:value-of select="count(lg/l)"/>
                     </a>
                 </h4>
             </div>
@@ -143,7 +152,7 @@
             <div class="panel-heading" role="tab" id="heading{$posicion}">
                 <h4 class="panel-title">
                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{$posicion}" aria-expanded="false" aria-controls="collapse{$posicion}">
-                        Versos 52-<xsl:value-of select="count(lg/l)"/>
+                        Versos...-<xsl:value-of select="count(lg/l)"/>
                     </a>
                 </h4>
             </div>
