@@ -19,13 +19,15 @@
  +        </xsl:attribute>
  +    </xsl:template>
 
+ <!--Esto me lo han añadido antes y no sé qué significa-->
+
         <xsl:template match="/">
             <html>
                 <head>
                     <title>Elegías de Teognis</title>
                      <meta charset="utf-8" lang="es" />
                          <link rel="stylesheet" href="../css/bootstrap.css" />
-                             <link rel="shortcut icon" type="png" href="img/favicon.png"/>
+                             <link rel="shortcut icon" type="png" href=""/>
                              <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
                              <script src="../js/bootstrap.min.js"></script>
                              <script>
@@ -45,8 +47,7 @@
       <div class="col-md-8 col-sm-12 col-xs-12" style="padding-top: 10px;">
          <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
         <div class="container topnav">
-        
-            <!-- Collect the nav links, forms, and other content for toggling -->
+      
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
 
@@ -67,12 +68,11 @@
                     </li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
+        
         </div>
-        <!-- /.container -->
+        
     </nav>
   </div> 
-
    <div class="col-md-12 col-xs-12 col-sm-12">
    <h1> </h1>
    
