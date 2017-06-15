@@ -4,13 +4,13 @@
 		<fileDesc>
 			<titleStmt>
 
-				<title>Elegías de Teognis <ptr target="https://es.wikipedia.org/wiki/Teognis/"></ptr>
+				<title>Elegías de Teognis<ptr target="https://es.wikipedia.org/wiki/Teognis/"></ptr>
 			</title>
 			<author>Patricia Garrido Teixeira
 			</author>
 			<respStmt>
-				<resp>Tutelado por: </resp>
-				<name>Adrián Menéndez de la Cuesta</name>
+				<resp>Tutelado por:</resp>
+				<name>Adrián Riesco Rodríguez</name>
 				<name>Juan Antonio Álvarez-Pedrosa</name>
 			</respStmt>
 		</titleStmt>
@@ -27,7 +27,7 @@
 		<div type="elegías">
 			<head>Libro 1</head>
 
-	
+
 
 			<div n="1">
 				<lg n="1">
@@ -49,7 +49,7 @@
 				<l>εὐχομένῳ μοι κλῦθι, κακὰς δ᾽ ἀπὸ κῆρας ἄλαλκε:</l>
 				<l>σοὶ μὲν τοῦτο, θεά, σμικρόν, ἐμοὶ δὲ μέγα.</l>
 			</lg>
-			<lg n="4">    
+			<lg n="4">
 				<l>Μοῦσαι καὶ Χάριτες, κοῦραι <persName>Διός</persName>, αἵ ποτε <persName>Κάδμου</persName></l>
 				<l>ἐς γάμον ἐλθοῦσαι καλὸν ἀείσατ᾽ ἔπος:</l>
 				<l>‘ὅττι καλόν, φίλον ἐστι, τὸ δ᾽ οὐ καλὸν οὐ φίλον ἐστίν:’</l>
@@ -885,7 +885,7 @@
 			</lg>
 		</div>
 		<div n="555">
-			
+
 			<lg n="124">
 				<l>χρὴ τολμᾶν χαλεποῖσιν ἐν ἄλγεσι κείμενον ἄνδρα,</l>
 				<l>πρός τε θεῶν αἰτεῖν ἔκλυσιν ἀθανάτων.</l>
@@ -1455,7 +1455,7 @@
 
 	</div>
 
-	<div n="901"> 
+	<div n="901">
 
 		<lg n="207">
 			<l>ἔστιν ὁ μὲν χείρων ὁ δ᾽ ἀμείνων ἔργον ἕκαστον:</l>
@@ -2011,7 +2011,7 @@
 
 </div>
 
-<div n="1203"> 
+<div n="1203">
 	<lg n="295">
 		<l>οὐκ εἶμ᾽, οὐδ᾽ ἐπ᾽ ἐμοῦ κεκλαύσεται οὐδ᾽ ἐπὶ τύμβῳ</l>
 		<l>οἰμωχθεὶς ὑπὸ γῆν εἶσι τύραννος ἀνήρ,</l>
@@ -2064,7 +2064,7 @@
 </div>
 
 	</body>
-	
+
 </text>
 </TEI>
 
